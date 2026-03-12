@@ -18,7 +18,6 @@ medotoAddCarros(){
 
 }
 
-
 medotoRemoverCarros(){
 
 listaCarros.slice(1,1);
