@@ -8,7 +8,7 @@ function resetFace(){
 function ressuscitate(){
     
    EnemyManager.instance().ressuscitate();
-   lifeArea.style.width = EnemyManager.instance().health + "px"; //lembrar de instanciar sempre !!! 
+   lifeArea.style.width = EnemyManager.instance().health + "px"; 
    ImageManager.instance().playerStaticImg();
    winner = false;
 
