@@ -17,11 +17,11 @@ Os padrões estão organizados de acordo com suas categorias:
 ### Estruturais
 - Adapter
 - Decorator
-- Facade
+- Depedency injection
 
 ### Comportamentais
 - Observer
 - Strategy
-- Command
+- 
 
 

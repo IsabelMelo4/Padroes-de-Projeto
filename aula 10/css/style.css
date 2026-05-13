@@ -1,0 +1,19 @@
+.textScreen{
+
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20pt;
+}
+
+.commandButton{
+    width: 90px;
+    height: 30px;
+    cursor: pointer;
+
+
+  
+}
+
+.center{
+    text-align: center;
+}
