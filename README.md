@@ -16,8 +16,7 @@ Os padrões estudados até o momento foram:
 -  Dependency Injection
 -  Command
 -  Facade
--  State
--  Object Pooling
+
 
 ---
 
@@ -40,8 +39,7 @@ Os padrões estudados até o momento foram:
 📁 dependency-injection
 📁 command
 📁 facade
-📁 state
-📁 pooling
+
 ```
 
 Cada pasta contém exemplos e exercícios relacionados ao padrão correspondente.
